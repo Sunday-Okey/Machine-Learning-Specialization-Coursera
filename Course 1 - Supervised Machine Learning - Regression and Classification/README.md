@@ -1,5 +1,5 @@
 # Supervised Machine Learning : Regression and Classification
-![image](https://github.com/user-attachments/assets/6821a727-569c-4988-b9ff-d5e0a5dfa8f6)
+
 
 
 ## Week 1
