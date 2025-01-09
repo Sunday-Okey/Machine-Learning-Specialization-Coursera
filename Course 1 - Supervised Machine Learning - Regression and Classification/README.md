@@ -28,7 +28,7 @@
   - [Programming Assignment](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/C1W2A1)
       - [Linear Regression](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/C1W2A1/C1_W2_Linear_Regression.ipynb)
 
-- ## Week 3
+- ## [Week 3](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203)
     - [Practice quiz Classification with logistic regression](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/Practice%20quiz%20Classification%20with%20logistic%20regression)
     - [Practice quiz Cost function for logistic regression](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/Practice%20quiz%20Cost%20function%20for%20logistic%20regression)
     - [Practice quiz Gradient descent for logistic regression](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/Practice%20quiz%20Gradient%20descent%20for%20logistic%20regression)
