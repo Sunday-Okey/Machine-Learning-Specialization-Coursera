@@ -45,3 +45,5 @@
         - [Regularization](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/Optional%20Labs/C1_W3_Lab09_Regularization_Soln.ipynb)
     - [Programming Assignment](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/Programming%20Assignment)
         - [Logistic Regression](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/Programming%20Assignment/C1_W3_Logistic_Regression.ipynb)
+     
+[Certificate Of Completion](https://www.coursera.org/account/accomplishments/verify/LRQVW6EX54HY)
