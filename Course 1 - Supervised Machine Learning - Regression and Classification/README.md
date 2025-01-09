@@ -15,7 +15,7 @@
     - [Cost Function](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/Optional%20Labs/C1_W1_Lab03_Cost_function_Soln.ipynb)
     - [Gradient Descent](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/Optional%20Labs/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
    
-- ## Week 2
+- ## [Week 2](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202)
   - [Practice quiz: Gradient descent in practice](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/Practice%20quiz%20-%20Gradient%20descent%20in%20practice)
   - [Practice quiz: Multiple linear regression](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/Practice%20quiz%20-%20Multiple%20linear%20regression)
   - [Optional Labs](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%202/Optional%20Labs)
