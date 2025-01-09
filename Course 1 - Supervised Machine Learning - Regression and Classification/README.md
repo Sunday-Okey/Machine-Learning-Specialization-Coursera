@@ -1,8 +1,7 @@
 # Supervised Machine Learning : Regression and Classification
 
 
-
--  [Week 1](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201)
+- ## [Week 1](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201)
 
   - [Practice quiz: Regression](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/Practice%20Quiz%20-%20Regression)
 
