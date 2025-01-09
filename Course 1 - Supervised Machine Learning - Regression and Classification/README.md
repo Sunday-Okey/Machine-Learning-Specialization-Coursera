@@ -1,11 +1,11 @@
-# Machine Learning Specialization Coursera
+# Supervised Machine Learning : Regression and Classification
 ![image](https://github.com/user-attachments/assets/6821a727-569c-4988-b9ff-d5e0a5dfa8f6)
 
 
 Contains Solutions to Labs, Assignments and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Andrew NG on Coursera
 ![image](https://github.com/user-attachments/assets/3ee2c790-660f-4281-9300-2f5e450b0549)
 
-## Week 1 Solutions
+## Week 1
 
 - [Practice quiz: Regression](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/Practice%20Quiz%20-%20Regression)
 
