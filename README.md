@@ -5,7 +5,7 @@
 Contains Solutions to Labs, Assignments and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Andrew NG on Coursera
 ![image](https://github.com/user-attachments/assets/3ee2c790-660f-4281-9300-2f5e450b0549)
 
-## Week 1 Solutions
+## Supervised Machine Learning : Regression and Classification
 
 - [Practice quiz: Regression](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/Practice%20Quiz%20-%20Regression)
 
@@ -18,3 +18,5 @@ Contains Solutions to Labs, Assignments and Notes for the [Machine Learning Spec
   - [Model Representation](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/Optional%20Labs/C1_W1_Lab02_Model_Representation_Soln.ipynb)
   - [Cost Function](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/Optional%20Labs/C1_W1_Lab03_Cost_function_Soln.ipynb)
   - [Gradient Descent](https://github.com/Sunday-Okey/Machine-Learning-Specialization-Coursera/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%201/Optional%20Labs/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
+
+ # Week 2 Solutions
